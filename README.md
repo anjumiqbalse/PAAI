@@ -44,3 +44,11 @@ python3.8 test_cifar10.py
 python3.8 test_cifar100.py 
 ```
 
+
+## Citation
+
+This work is currently submitted. If you find our method useful, please consider citing it once it is published. You may refer to it as:
+
+> Anjum Iqbal, Weiqiang Kong, and Yasir Iqbal. "Enhancing Fast Adversarial Training: Precision-Aware Initialization with Historical Perturbation Guidance" *Submitted to The Visual Computer*, 2024.
+
+We will update this README with the official DOI and BibTeX entry upon acceptance
